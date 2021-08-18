@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap");
+
+.container {
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#hex-colors {
+  width: 100%;
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-family: "Lora", serif;
+}
+#hex-colors h2{
+  margin-top: 5%;
+}
